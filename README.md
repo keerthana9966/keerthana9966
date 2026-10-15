@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=keerthana9966&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSBS-VNR%20VJIET-6C63FF?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/VNR%20VJIET-6C63FF?style=flat-square&logo=graduation-cap&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=flat-square&logo=google-maps&logoColor=white" />
 </div>
